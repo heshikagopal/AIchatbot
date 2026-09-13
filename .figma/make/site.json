@@ -1,0 +1,10 @@
+{
+  "description": "Provides an intuitive AI chatbot for quick Q&A, helping users learn prompt crafting, memory use, and basic user experience design effectively.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
