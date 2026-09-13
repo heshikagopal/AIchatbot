@@ -50,3 +50,4 @@ src/
 └── main.tsx      # React entry point
 index.html        # HTML shell
 ```
+**Live demo**:https://aichatbot-sandy-iota.vercel.app/
